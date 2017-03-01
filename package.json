@@ -1,0 +1,11 @@
+{
+  "name": "meddler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:engw/meddler.git",
+  "author": "chck <iwazaki_yuki@cyberagent.co.jp>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^2.2.1"
+  }
+}
